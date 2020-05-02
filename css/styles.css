@@ -10211,3 +10211,15 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+/*----------------------------
+Estilos nuevos para la pagina
+-----------------------------*/
+
+@font-face{
+  font-family: 'Lobster-regular';
+  src: url(../font/Lobster-Regular.ttf);
+}
+.titulo-cabecera{
+  font-family: Lobster-regular;
+}
